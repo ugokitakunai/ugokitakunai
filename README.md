@@ -2,7 +2,8 @@
 ## 自己紹介
 ugokitakunaiです。うごきたくないのでゆっくりやっていきます
 ## なにしてると？
-Pythonでいろいろやってます、まだ1ヶ月も触ってないので全くわかりません
+Pythonでいろいろやってます、まだ1ヶ月も触ってないので全くわかりません。
+
 
 <!--
 **ugokitakunai/ugokitakunai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
