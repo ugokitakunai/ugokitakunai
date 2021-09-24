@@ -5,6 +5,9 @@ ugokitakunaiです。<br>
 ## いまなにしてる？
 暇つぶしにPythonでなんか書いてます。
 
+
+[![ugokitakunai's GitHub stats](https://github-readme-stats.vercel.app/api?username=ugokitakunai)](https://github.com/ugokitakunai)
+
 <!--
 アカウント作成日:2021/9/11
 -->
